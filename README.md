@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1178777942864695339/1178811384050503740/67037394-purple-lightning.png?ex=657780a7&is=65650ba7&hm=895f5ae69e31b5ea17fcbb831d8f933ded1b468ca6b76014b68c80da54e4cc61&=&format=webp&width=540&height=540" width="100%" height="100%" />
+<img src="https://media.discordapp.net/attachments/1180181942017204314/1181719844324900945/Screenshot_2023-12-03_082526.png?ex=6582155e&is=656fa05e&hm=42c8e747f15887e3bb5ce92c700155636b52672668312921b208b149d2a37d63&=&format=webp&quality=lossless" />
 ## Features
 
 -   Best image logger 
