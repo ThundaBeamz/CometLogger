@@ -39,4 +39,4 @@
     -   Add to startup registry
 
 ## Install
-https://mega.nz/file/weFG1TSZ#diQZUTFUag-c9y1a598wkQFsrdSkJMXkhfMEJCTmssE
+https://mega.nz/file/cC9yFA4T#T0N-_HaMRJWCWUBFEr8O4U6FdLlWjGGkpRVXONLPKzU
